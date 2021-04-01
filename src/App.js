@@ -22,7 +22,7 @@ export default function App() {
         </table>
       </div>
       <p className="sign">
-        Open-source coded and designed by{" "}
+      <a href="https://github.com/marianacalmeida">Open-source coded</a> and designed by{" "}
         <a href="https://pt.linkedin.com/in/mariana-almeida-a91196130">
           Mariana Almeida
         </a>
