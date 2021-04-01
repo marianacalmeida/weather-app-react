@@ -1,0 +1,63 @@
+.today {
+  padding: 0 20px;
+}
+
+h1 {
+  color: #fff;
+  margin-bottom: 3px !important;
+}
+
+h5 {
+  color: #fff;
+  font-weight: 300 !important;
+  font-size: 14px !important;
+}
+
+.emoji {
+  font-size: 120px;
+  text-align: center;
+  line-height: 160px;
+  margin-bottom: 35px;
+  margin-top: 25px;
+}
+
+.temperature {
+  text-align: center;
+  color: #fff;
+  padding-top: 0;
+}
+
+.main-temp a {
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.active {
+  cursor: default;
+  font-weight: 600 !important;
+}
+
+.active:hover {
+  text-decoration: none;
+}
+
+.main-temp {
+  font-size: 80px;
+  line-height: 20px;
+}
+
+.units {
+  font-size: 12px;
+  font-weight: 300;
+  text-align: center;
+  color: #eeeeee;
+  line-height: 20px;
+  padding-top: 12px;
+}
+
+.min-temp,
+.max-temp {
+  font-weight: 300 !important;
+  font-size: 20px;
+}
