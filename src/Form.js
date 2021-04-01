@@ -18,6 +18,7 @@ export default function Form() {
           <button type="submit" className="btn btn-primary" id="searchButton">
             Search
           </button>
+
         </div>
       </div>
     </form>
