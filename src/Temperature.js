@@ -15,12 +15,12 @@ export default function Temperature() {
           16º
         </p>
         <p className="units">
-          <a href="" id="cel" class="active">
+          <p id="cel" className="active anchor">
             C º
-          </a>
-          <a href="" id="fah">
+          </p>
+          <p id="fah" className="anchor">
             F º
-          </a>
+          </p>
         </p>
       </div>
       <div className="col-4 max-temp">
